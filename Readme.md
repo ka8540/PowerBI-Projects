@@ -7,7 +7,7 @@ This collection features interactive dashboards built using Power BI to transfor
 
 ## 🛫 Indian Airlines Ticket Price Dashboard
 
-![Indian Airlines Ticket Price Dashboard](image1.png)
+![Indian Airlines Ticket Price Dashboard](Indian-Airlines-Ticket-Price/image6.png)
 
 **Description:**  
 This dashboard analyzes ticket pricing trends across Indian airlines, revealing seasonal pricing strategies and airline-wise comparisons.
@@ -16,46 +16,46 @@ This dashboard analyzes ticket pricing trends across Indian airlines, revealing 
 
 ## 🛍️ E-commerce Sales Insight Dashboard
 
-![E-commerce Sales Insight Dashboard](image2.png)
+![E-commerce Sales Insight Dashboard](E-commerce/Image1.png)
 
 **Description:**  
 A powerful overview of e-commerce metrics like total sales, top-performing products, and customer segmentation insights.
 
 ---
 
-## 🌐 Global Sales Performance Overview
+## 📈 India Population Dashboard
 
-![Global Sales Performance Overview](image3.png)
+![India Population Dashboard](India-Population/image2.png)
 
 **Description:**  
-This dashboard provides a high-level summary of sales performance by region, product line, and sales trends over time.
+Visualizes India's population data across states and genders using Power BI map visualizations, bar charts, and percentage growth insights.
 
 ---
 
-## 🏥 Healthcare Analytics Dashboard
+## 👕 Myntra Product Dashboard
 
-![Healthcare Analytics Dashboard](image4.png)
+![Myntra Product Dashboard](Myntra_dashboard/image3.png)
 
 **Description:**  
-Gain insight into patient visits, demographics, hospital departments, and medical performance metrics.
+A fashion e-commerce dashboard focusing on product analysis, pricing trends, and category performance from Myntra data.
 
 ---
 
-## 📦 Supply Chain Efficiency Tracker
+## 🚧 Road Accident Analytics Dashboard
 
-![Supply Chain Efficiency Tracker](image5.png)
+![Road Accident Analytics Dashboard](Road-Accident/image4.png)
 
 **Description:**  
-Tracks shipment efficiency, delivery delays, supplier performance, and logistics KPIs to enhance operational efficiency.
+Highlights accident hotspots, vehicle type involvement, time-of-day analysis, and state-wise breakdown of road accident data in India.
 
 ---
 
-## 🎓 Education Performance Metrics Dashboard
+## 📊 Sales Insights Dashboard
 
-![Education Performance Metrics Dashboard](image6.png)
+![Sales Insights Dashboard](Sales-Insights-Dashboard/Image5.png)
 
 **Description:**  
-Evaluates school performance, student grades, and attendance data to support better academic decisions.
+This dashboard provides a high-level summary of sales performance by region, product line, and trends over time.
 
 ---
 
