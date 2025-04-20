@@ -25,7 +25,7 @@ A powerful overview of e-commerce metrics like total sales, top-performing produ
 
 ## 📈 India Population Dashboard
 
-![India Population Dashboard](India-Population/image2.png)
+![India Population Dashboard](India Population/image2.png)
 
 **Description:**  
 Visualizes India's population data across states and genders using Power BI map visualizations, bar charts, and percentage growth insights.
